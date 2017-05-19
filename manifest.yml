@@ -1,0 +1,8 @@
+applications:
+- path: .
+  memory: 256M
+  instances: 1
+  domain: au-syd.mybluemix.net
+  name: 906434nikkendemo
+  host: 906434nikkendemo
+  disk_quota: 1024M
